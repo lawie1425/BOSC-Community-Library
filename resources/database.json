@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-10",
+  "resources": [
+    {
+      "id": "computing-oss-intro",
+      "title": "Introduction to Open Source Software",
+      "category": "Computing & Technology",
+      "topics": ["open source", "licenses", "community", "software"],
+      "source": "Open Source Initiative (OSI)",
+      "format": "Reference Guide",
+      "language": "English",
+      "status": "published",
+      "path": "computing/oss-intro.md"
+    },
+    {
+      "id": "computing-linux-cli",
+      "title": "Linux Command Line Fundamentals",
+      "category": "Computing & Technology",
+      "topics": ["linux", "terminal", "shell", "files"],
+      "source": "Community-authored BOSC guide",
+      "format": "Guide",
+      "language": "English",
+      "status": "published",
+      "path": "computing/linux-cli.md"
+    },
+    {
+      "id": "computing-git-basics",
+      "title": "Version Control with Git",
+      "category": "Computing & Technology",
+      "topics": ["git", "version control", "branches", "pull requests"],
+      "source": "Git Project / GitHub Docs",
+      "format": "Tutorial",
+      "language": "English",
+      "status": "published",
+      "path": "computing/git-basics.md"
+    },
+    {
+      "id": "sciences-open-data",
+      "title": "Open Data in Scientific Research",
+      "category": "Sciences",
+      "topics": ["open data", "research", "metadata", "reproducibility"],
+      "source": "UNESCO open science guidance",
+      "format": "Report",
+      "language": "English",
+      "status": "published",
+      "path": "sciences/open-data.md"
+    },
+    {
+      "id": "sciences-env-data",
+      "title": "Environmental Data Collection Methods",
+      "category": "Sciences",
+      "topics": ["environment", "data collection", "monitoring", "quality"],
+      "source": "UNEP environmental monitoring guidance",
+      "format": "Guide",
+      "language": "English",
+      "status": "published",
+      "path": "sciences/env-data.md"
+    },
+    {
+      "id": "humanities-digital-literacy",
+      "title": "Digital Literacy for Communities",
+      "category": "Humanities & Social Sciences",
+      "topics": ["digital literacy", "community", "online safety", "information"],
+      "source": "IFLA digital inclusion guidance",
+      "format": "Guide",
+      "language": "English",
+      "status": "published",
+      "path": "humanities/digital-literacy.md"
+    },
+    {
+      "id": "humanities-governance",
+      "title": "Governance and Public Accountability",
+      "category": "Humanities & Social Sciences",
+      "topics": ["governance", "accountability", "public records", "transparency"],
+      "source": "World Bank governance resources",
+      "format": "Report",
+      "language": "English",
+      "status": "published",
+      "path": "humanities/governance.md"
+    },
+    {
+      "id": "localization-swahili",
+      "title": "Swahili Localization Tracker",
+      "category": "Localization",
+      "topics": ["swahili", "translation", "localization", "glossary"],
+      "source": "BOSC Community",
+      "format": "Tracker",
+      "language": "Swahili",
+      "status": "active",
+      "path": "localization/swahili.md"
+    }
+  ]
+}

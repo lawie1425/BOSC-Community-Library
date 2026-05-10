@@ -5,7 +5,7 @@
 **Format:** Reference Guide
 **Language:** English
 **Added:** 2026-05-09
-**License:** Public Domain / CC0
+**License:** Apache 2.0
 
 ---
 
