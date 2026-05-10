@@ -7,9 +7,11 @@
 
 ## 🖥️ Computing & Technology
 
+Computing resources are grouped in [computing/README.md](computing/README.md) by learning path: foundations, operating systems, and collaboration tools.
+
 | # | Title | Source | Format | Language | Link |
 |---|-------|--------|--------|----------|------|
-| 1 | Introduction to Open Source Software | OSI Foundation | PDF | English | [computing/oss-intro.md](computing/oss-intro.md) |
+| 1 | Introduction to Open Source Software | Open Source Initiative (OSI) | Reference Guide | English | [computing/oss-intro.md](computing/oss-intro.md) |
 | 2 | Linux Command Line Fundamentals | The Linux Project | Guide | English | [computing/linux-cli.md](computing/linux-cli.md) |
 | 3 | Version Control with Git | GitHub Docs | Tutorial | English | [computing/git-basics.md](computing/git-basics.md) |
 
@@ -35,20 +37,26 @@
 
 ## 🌐 Localized Resources
 
-| # | Title | Language | Status |
-|---|-------|----------|--------|
-| 1 | Introduction to OSS (Swahili) | Swahili | In Progress |
-| 2 | Linux Basics (French) | French | In Progress |
-| 3 | Digital Literacy (Portuguese) | Portuguese | Planned |
+| # | Title | Language | Status | Link |
+|---|-------|----------|--------|------|
+| 1 | Swahili Localization Tracker | Swahili | Active | [localization/swahili.md](localization/swahili.md) |
+| 2 | Linux Basics (French) | French | In Progress | Pending |
+| 3 | Digital Literacy (Portuguese) | Portuguese | Planned | Pending |
 
 > **Note:** See [localization/](localization/) for the full localization tracker.
 
 ---
 
+## 🔍 Searchable Resource Database
+
+The structured catalog for search and filtering is available as [database.json](database.json). It includes resource IDs, categories, topics, languages, formats, status, and relative paths.
+
+---
+
 ## 📋 Index Maintenance
 
-- **Last updated:** 2026-05-07
+- **Last updated:** 2026-05-10
 - **Maintainer:** [@lawie1425](https://github.com/lawie1425)
-- **Total resources:** 7 (growing)
+- **Total resources:** 7 English resources + 1 localization tracker
 
 To add a resource to the index, follow the guidelines in [CONTRIBUTING.md](../CONTRIBUTING.md).
