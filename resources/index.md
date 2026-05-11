@@ -30,7 +30,7 @@ Computing resources are grouped in [computing/README.md](computing/README.md) by
 
 | # | Title | Source | Format | Language | Link |
 |---|-------|--------|--------|----------|------|
-| 1 | Digital Literacy for Communities | IFLA | PDF | English | [humanities/digital-literacy.md](humanities/digital-literacy.md) |
+| 1 | Digital Literacy for Communities | IFLA | Guide | English | [humanities/digital-literacy.md](humanities/digital-literacy.md) |
 | 2 | Governance and Public Accountability | World Bank | Report | English | [humanities/governance.md](humanities/governance.md) |
 
 ---
