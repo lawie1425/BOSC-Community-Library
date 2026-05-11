@@ -89,6 +89,17 @@
       "language": "Swahili",
       "status": "active",
       "path": "localization/swahili.md"
+    },
+    {
+      "id": "localization-oss-intro-sw",
+      "title": "Utangulizi wa Programu Huria",
+      "category": "Localization",
+      "topics": ["swahili", "open source", "translation", "software"],
+      "source": "BOSC Community translation of Introduction to Open Source Software",
+      "format": "Translation Starter",
+      "language": "Swahili",
+      "status": "review-needed",
+      "path": "localization/oss-intro-sw.md"
     }
   ]
 }
