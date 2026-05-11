@@ -42,6 +42,7 @@ BOSC-Community-Library/
 ├── CODE_OF_CONDUCT.md          # Community behavior standards
 ├── CONTRIBUTING.md             # How to contribute
 ├── LEGAL_ANALYSIS.md           # Licensing rationale and IP analysis
+├── REFLECTIVE_JOURNAL.md       # Project learning and reflection journal
 ├── SUSTAINABILITY.md           # Funding & sustainability strategy
 ├── SUBMISSION_LOG.md           # Exam audit log
 └── LICENSE                     # Apache License 2.0
@@ -58,6 +59,11 @@ Navigate to the [`resources/`](resources/) directory and open [`index.md`](resou
 We welcome all contributions! Before submitting, please read:
 - [CONTRIBUTING.md](CONTRIBUTING.md) — our technical contribution guide
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — our community standards
+
+### Public-Sector Readiness
+- [SUSTAINABILITY.md](SUSTAINABILITY.md) — long-term maintenance and funding plan
+- [Government Proposal](docs/government-proposal.md) — public-sector adoption pitch
+- [REFLECTIVE_JOURNAL.md](REFLECTIVE_JOURNAL.md) — project reflection and next steps
 
 ### Reporting Issues
 Use our [Issue Templates](.github/ISSUE_TEMPLATE/) to report bugs or request features. Clear, detailed reports help us respond faster.
