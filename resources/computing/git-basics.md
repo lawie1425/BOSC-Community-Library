@@ -149,4 +149,4 @@ Follow the **Conventional Commits** format:
 
 ---
 
-*This resource is part of the [BOSC Community Library](../../README.md) | [Back to Index](../index.md)*
+*This resource is part of the [BOSC Community Library](../../README.md) | [Back to Computing](README.md) | [Back to Index](../index.md)*
