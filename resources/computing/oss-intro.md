@@ -91,4 +91,4 @@ The Free Software Foundation defines the following essential freedoms that open 
 
 ---
 
-*This resource is part of the [BOSC Community Library](../../README.md) | [Back to Index](../index.md)*
+*This resource is part of the [BOSC Community Library](../../README.md) | [Back to Computing](README.md) | [Back to Index](../index.md)*
