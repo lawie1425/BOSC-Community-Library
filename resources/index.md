@@ -40,8 +40,9 @@ Computing resources are grouped in [computing/README.md](computing/README.md) by
 | # | Title | Language | Status | Link |
 |---|-------|----------|--------|------|
 | 1 | Swahili Localization Tracker | Swahili | Active | [localization/swahili.md](localization/swahili.md) |
-| 2 | Linux Basics (French) | French | In Progress | Pending |
-| 3 | Digital Literacy (Portuguese) | Portuguese | Planned | Pending |
+| 2 | Utangulizi wa Programu Huria | Swahili | Review Needed | [localization/oss-intro-sw.md](localization/oss-intro-sw.md) |
+| 3 | Linux Basics (French) | French | In Progress | Pending |
+| 4 | Digital Literacy (Portuguese) | Portuguese | Planned | Pending |
 
 > **Note:** See [localization/](localization/) for the full localization tracker.
 
@@ -57,6 +58,6 @@ The structured catalog for search and filtering is available as [database.json](
 
 - **Last updated:** 2026-05-10
 - **Maintainer:** [@lawie1425](https://github.com/lawie1425)
-- **Total resources:** 7 English resources + 1 localization tracker
+- **Total resources:** 7 English resources + 1 translation starter + 1 localization tracker
 
 To add a resource to the index, follow the guidelines in [CONTRIBUTING.md](../CONTRIBUTING.md).
