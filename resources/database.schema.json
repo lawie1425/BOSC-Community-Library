@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/lawie1425/BOSC-Community-Library/resources/database.schema.json",
+  "title": "BOSC Community Library Resource Database",
+  "type": "object",
+  "required": ["schema_version", "last_updated", "resources"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Version of this catalog structure."
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when the catalog was last updated."
+    },
+    "resources": {
+      "type": "array",
+      "description": "Searchable resource records.",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "category",
+          "topics",
+          "source",
+          "format",
+          "language",
+          "status",
+          "path"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+            "description": "Stable lowercase identifier for search and references."
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1
+          },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "source": {
+            "type": "string",
+            "minLength": 1
+          },
+          "format": {
+            "type": "string",
+            "minLength": 1
+          },
+          "language": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9._/-]+\\.md$",
+            "description": "Path relative to the resources directory."
+          }
+        }
+      }
+    }
+  }
+}
