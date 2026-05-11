@@ -16,7 +16,7 @@ This tracker coordinates Swahili localization work for BOSC Community Library re
 
 | # | Source Resource | Localized Title | Status | Priority |
 |---|-----------------|-----------------|--------|----------|
-| 1 | [Introduction to Open Source Software](../computing/oss-intro.md) | Utangulizi wa Programu Huria | Planned | High |
+| 1 | [Introduction to Open Source Software](../computing/oss-intro.md) | [Utangulizi wa Programu Huria](oss-intro-sw.md) | Review Needed | High |
 | 2 | [Linux Command Line Fundamentals](../computing/linux-cli.md) | Misingi ya Amri za Linux | Planned | Medium |
 | 3 | [Version Control with Git](../computing/git-basics.md) | Udhibiti wa Matoleo kwa Git | Planned | Medium |
 
