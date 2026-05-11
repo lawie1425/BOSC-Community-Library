@@ -12,7 +12,7 @@ Computing resources are grouped in [computing/README.md](computing/README.md) by
 | # | Title | Source | Format | Language | Link |
 |---|-------|--------|--------|----------|------|
 | 1 | Introduction to Open Source Software | Open Source Initiative (OSI) | Reference Guide | English | [computing/oss-intro.md](computing/oss-intro.md) |
-| 2 | Linux Command Line Fundamentals | The Linux Project | Guide | English | [computing/linux-cli.md](computing/linux-cli.md) |
+| 2 | Linux Command Line Fundamentals | Community-authored BOSC guide | Guide | English | [computing/linux-cli.md](computing/linux-cli.md) |
 | 3 | Version Control with Git | GitHub Docs | Tutorial | English | [computing/git-basics.md](computing/git-basics.md) |
 
 ---
