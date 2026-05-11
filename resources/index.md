@@ -50,7 +50,7 @@ Computing resources are grouped in [computing/README.md](computing/README.md) by
 
 ## 🔍 Searchable Resource Database
 
-The structured catalog for search and filtering is available as [database.json](database.json). It includes resource IDs, categories, topics, languages, formats, status, and relative paths.
+The structured catalog for search and filtering is available as [database.json](database.json). Its expected fields and value types are documented in [database.schema.json](database.schema.json). The catalog includes resource IDs, categories, topics, languages, formats, status, and relative paths.
 
 ---
 
