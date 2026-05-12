@@ -29,45 +29,81 @@ Key repository files:
 
 ---
 
-## 2. Screenshot Placement Guide
+## 2. Screenshot Evidence
 
-Place all required screenshots inside the `evidence/screenshots/` folder using the filenames below. These paths are intentionally listed here so the audit evidence is easy to review.
+Add each screenshot under the matching title below. The screenshot file paths are included so the evidence can also be stored in the repository under `evidence/screenshots/`.
 
-### Git Activity Screenshots
+### Screenshot 1: GitHub Repository Commit History
 
-Use these screenshots to show commit activity and contributions across the project work period.
+Suggested file path: `evidence/screenshots/git-activity/commit-history.png`
 
-| Screenshot | Save As | What It Should Show |
-|------------|---------|---------------------|
-| Commit history page | `evidence/screenshots/git-activity/commit-history.png` | GitHub repository commit history showing multiple commits |
-| Branch or network activity | `evidence/screenshots/git-activity/branch-activity.png` | Branches, merged work, or repository network activity |
-| Local or GitHub contribution timeline | `evidence/screenshots/git-activity/contribution-timeline.png` | Evidence that work was spread across the week |
+Paste or insert the screenshot here:
 
-### Resolved Issues and Pull Requests
 
-Use these screenshots to show the five closed issue threads and their related merged pull requests.
 
-| Issue | Related Pull Request | Screenshot Path |
-|-------|----------------------|-----------------|
-| #2 — Fix Linux CLI source metadata in resource index | #7 — Fix Linux CLI source metadata | `evidence/screenshots/issues-prs/issue-02-pr-07.png` |
-| #3 — Correct digital literacy format metadata | #8 — Correct digital literacy format metadata | `evidence/screenshots/issues-prs/issue-03-pr-08.png` |
-| #4 — Add Swahili starter translation for OSS introduction | #9 — Add Swahili OSS translation starter | `evidence/screenshots/issues-prs/issue-04-pr-09.png` |
-| #5 — Document the searchable resource database schema | #10 — Document resource database schema | `evidence/screenshots/issues-prs/issue-05-pr-10.png` |
-| #6 — Improve computing section navigation | #11 — Improve computing resource navigation | `evidence/screenshots/issues-prs/issue-06-pr-11.png` |
+### Screenshot 2: Branch and Pull Request Activity
 
-Recommended screenshot approach:
+Suggested file path: `evidence/screenshots/git-activity/branch-activity.png`
 
-1. Open each closed issue thread on GitHub.
-2. Make sure the linked pull request and closed status are visible.
-3. Save the screenshot using the filename listed above.
+Paste or insert the screenshot here:
 
-### Proof of Participation
 
-Use this screenshot to show the GitHub profile contribution graph for the project period.
 
-| Screenshot | Save As | What It Should Show |
-|------------|---------|---------------------|
-| GitHub profile contribution graph | `evidence/screenshots/profile/github-contributions-graph.png` | Green contribution squares for the project week |
+### Screenshot 3: Contribution Timeline
+
+Suggested file path: `evidence/screenshots/git-activity/contribution-timeline.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 4: Resolved Issue #2 and Pull Request #7
+
+Suggested file path: `evidence/screenshots/issues-prs/issue-02-pr-07.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 5: Resolved Issue #3 and Pull Request #8
+
+Suggested file path: `evidence/screenshots/issues-prs/issue-03-pr-08.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 6: Resolved Issue #4 and Pull Request #9
+
+Suggested file path: `evidence/screenshots/issues-prs/issue-04-pr-09.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 7: Resolved Issue #5 and Pull Request #10
+
+Suggested file path: `evidence/screenshots/issues-prs/issue-05-pr-10.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 8: Resolved Issue #6 and Pull Request #11
+
+Suggested file path: `evidence/screenshots/issues-prs/issue-06-pr-11.png`
+
+Paste or insert the screenshot here:
+
+
+
+### Screenshot 9: GitHub Profile Contribution Graph
+
+Suggested file path: `evidence/screenshots/profile/github-contributions-graph.png`
+
+Paste or insert the screenshot here:
+
+
 
 ---
 
